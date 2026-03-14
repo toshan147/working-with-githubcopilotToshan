@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xargs javac:*)",
+      "Bash(printf \"2\\\\nRohit Sharma\\\\n9876543210\\\\nAadhaar-1234\\\\n201\\\\n14-03-2026\\\\n17-03-2026\\\\n3\\\\n5001\\\\n4\\\\n5001\\\\n7\\\\n11\\\\n0\\\\n\")",
+      "Bash(java -cp out hotel.Main)"
+    ]
+  }
+}
