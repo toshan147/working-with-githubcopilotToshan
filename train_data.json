@@ -1,0 +1,3006 @@
+{
+  "trains": {
+    "10001": {
+      "number": "10001",
+      "name": "Rajdhani Express 001",
+      "source": "Delhi",
+      "destination": "Mumbai",
+      "distance_km": 1384,
+      "departure": "07:00",
+      "classes": {
+        "SL": {
+          "fare": 692.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1660.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 2491.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 4152.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10002": {
+      "number": "10002",
+      "name": "Shatabdi Express 002",
+      "source": "Delhi",
+      "destination": "Chennai",
+      "distance_km": 2194,
+      "departure": "08:00",
+      "classes": {
+        "SL": {
+          "fare": 1097.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 2632.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 3949.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 6582.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10003": {
+      "number": "10003",
+      "name": "Duronto Express 003",
+      "source": "Delhi",
+      "destination": "Kolkata",
+      "distance_km": 1472,
+      "departure": "09:00",
+      "classes": {
+        "SL": {
+          "fare": 736.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1766.4,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 2649.6,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 4416.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10004": {
+      "number": "10004",
+      "name": "Garib Rath 004",
+      "source": "Mumbai",
+      "destination": "Bengaluru",
+      "distance_km": 981,
+      "departure": "10:00",
+      "classes": {
+        "SL": {
+          "fare": 490.5,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1177.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1765.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 2943.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10005": {
+      "number": "10005",
+      "name": "Jan Shatabdi 005",
+      "source": "Chennai",
+      "destination": "Bengaluru",
+      "distance_km": 346,
+      "departure": "11:00",
+      "classes": {
+        "SL": {
+          "fare": 173.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 415.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 622.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1038.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10006": {
+      "number": "10006",
+      "name": "Humsafar Express 006",
+      "source": "Kolkata",
+      "destination": "Patna",
+      "distance_km": 532,
+      "departure": "12:00",
+      "classes": {
+        "SL": {
+          "fare": 266.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 638.4,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 957.6,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1596.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10007": {
+      "number": "10007",
+      "name": "Tejas Express 007",
+      "source": "Delhi",
+      "destination": "Jaipur",
+      "distance_km": 268,
+      "departure": "13:00",
+      "classes": {
+        "SL": {
+          "fare": 134.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 321.6,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 482.4,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 804.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10008": {
+      "number": "10008",
+      "name": "Vande Bharat 008",
+      "source": "Mumbai",
+      "destination": "Pune",
+      "distance_km": 149,
+      "departure": "14:00",
+      "classes": {
+        "SL": {
+          "fare": 74.5,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 178.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 268.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 447.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10009": {
+      "number": "10009",
+      "name": "Sampark Kranti 009",
+      "source": "Bengaluru",
+      "destination": "Hyderabad",
+      "distance_km": 574,
+      "departure": "15:00",
+      "classes": {
+        "SL": {
+          "fare": 287.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 688.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1033.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1722.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10010": {
+      "number": "10010",
+      "name": "Intercity Express 010",
+      "source": "Chennai",
+      "destination": "Hyderabad",
+      "distance_km": 626,
+      "departure": "16:00",
+      "classes": {
+        "SL": {
+          "fare": 313.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 751.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1126.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1878.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10011": {
+      "number": "10011",
+      "name": "Rajdhani Express 011",
+      "source": "Delhi",
+      "destination": "Mumbai",
+      "distance_km": 1384,
+      "departure": "17:00",
+      "classes": {
+        "SL": {
+          "fare": 692.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1660.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 2491.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 4152.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10012": {
+      "number": "10012",
+      "name": "Shatabdi Express 012",
+      "source": "Delhi",
+      "destination": "Chennai",
+      "distance_km": 2194,
+      "departure": "18:00",
+      "classes": {
+        "SL": {
+          "fare": 1097.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 2632.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 3949.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 6582.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10013": {
+      "number": "10013",
+      "name": "Duronto Express 013",
+      "source": "Delhi",
+      "destination": "Kolkata",
+      "distance_km": 1472,
+      "departure": "19:00",
+      "classes": {
+        "SL": {
+          "fare": 736.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1766.4,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 2649.6,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 4416.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10014": {
+      "number": "10014",
+      "name": "Garib Rath 014",
+      "source": "Mumbai",
+      "destination": "Bengaluru",
+      "distance_km": 981,
+      "departure": "20:00",
+      "classes": {
+        "SL": {
+          "fare": 490.5,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1177.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1765.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 2943.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10015": {
+      "number": "10015",
+      "name": "Jan Shatabdi 015",
+      "source": "Chennai",
+      "destination": "Bengaluru",
+      "distance_km": 346,
+      "departure": "21:00",
+      "classes": {
+        "SL": {
+          "fare": 173.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 415.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 622.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1038.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10016": {
+      "number": "10016",
+      "name": "Humsafar Express 016",
+      "source": "Kolkata",
+      "destination": "Patna",
+      "distance_km": 532,
+      "departure": "06:00",
+      "classes": {
+        "SL": {
+          "fare": 266.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 638.4,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 957.6,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1596.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10017": {
+      "number": "10017",
+      "name": "Tejas Express 017",
+      "source": "Delhi",
+      "destination": "Jaipur",
+      "distance_km": 268,
+      "departure": "07:00",
+      "classes": {
+        "SL": {
+          "fare": 134.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 321.6,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 482.4,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 804.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10018": {
+      "number": "10018",
+      "name": "Vande Bharat 018",
+      "source": "Mumbai",
+      "destination": "Pune",
+      "distance_km": 149,
+      "departure": "08:00",
+      "classes": {
+        "SL": {
+          "fare": 74.5,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 178.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 268.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 447.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10019": {
+      "number": "10019",
+      "name": "Sampark Kranti 019",
+      "source": "Bengaluru",
+      "destination": "Hyderabad",
+      "distance_km": 574,
+      "departure": "09:00",
+      "classes": {
+        "SL": {
+          "fare": 287.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 688.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1033.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1722.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10020": {
+      "number": "10020",
+      "name": "Intercity Express 020",
+      "source": "Chennai",
+      "destination": "Hyderabad",
+      "distance_km": 626,
+      "departure": "10:00",
+      "classes": {
+        "SL": {
+          "fare": 313.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 751.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1126.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1878.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10021": {
+      "number": "10021",
+      "name": "Rajdhani Express 021",
+      "source": "Delhi",
+      "destination": "Mumbai",
+      "distance_km": 1384,
+      "departure": "11:00",
+      "classes": {
+        "SL": {
+          "fare": 692.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1660.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 2491.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 4152.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10022": {
+      "number": "10022",
+      "name": "Shatabdi Express 022",
+      "source": "Delhi",
+      "destination": "Chennai",
+      "distance_km": 2194,
+      "departure": "12:00",
+      "classes": {
+        "SL": {
+          "fare": 1097.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 2632.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 3949.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 6582.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10023": {
+      "number": "10023",
+      "name": "Duronto Express 023",
+      "source": "Delhi",
+      "destination": "Kolkata",
+      "distance_km": 1472,
+      "departure": "13:00",
+      "classes": {
+        "SL": {
+          "fare": 736.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1766.4,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 2649.6,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 4416.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10024": {
+      "number": "10024",
+      "name": "Garib Rath 024",
+      "source": "Mumbai",
+      "destination": "Bengaluru",
+      "distance_km": 981,
+      "departure": "14:00",
+      "classes": {
+        "SL": {
+          "fare": 490.5,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1177.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1765.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 2943.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10025": {
+      "number": "10025",
+      "name": "Jan Shatabdi 025",
+      "source": "Chennai",
+      "destination": "Bengaluru",
+      "distance_km": 346,
+      "departure": "15:00",
+      "classes": {
+        "SL": {
+          "fare": 173.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 415.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 622.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1038.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10026": {
+      "number": "10026",
+      "name": "Humsafar Express 026",
+      "source": "Kolkata",
+      "destination": "Patna",
+      "distance_km": 532,
+      "departure": "16:00",
+      "classes": {
+        "SL": {
+          "fare": 266.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 638.4,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 957.6,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1596.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10027": {
+      "number": "10027",
+      "name": "Tejas Express 027",
+      "source": "Delhi",
+      "destination": "Jaipur",
+      "distance_km": 268,
+      "departure": "17:00",
+      "classes": {
+        "SL": {
+          "fare": 134.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 321.6,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 482.4,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 804.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10028": {
+      "number": "10028",
+      "name": "Vande Bharat 028",
+      "source": "Mumbai",
+      "destination": "Pune",
+      "distance_km": 149,
+      "departure": "18:00",
+      "classes": {
+        "SL": {
+          "fare": 74.5,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 178.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 268.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 447.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10029": {
+      "number": "10029",
+      "name": "Sampark Kranti 029",
+      "source": "Bengaluru",
+      "destination": "Hyderabad",
+      "distance_km": 574,
+      "departure": "19:00",
+      "classes": {
+        "SL": {
+          "fare": 287.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 688.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1033.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1722.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10030": {
+      "number": "10030",
+      "name": "Intercity Express 030",
+      "source": "Chennai",
+      "destination": "Hyderabad",
+      "distance_km": 626,
+      "departure": "20:00",
+      "classes": {
+        "SL": {
+          "fare": 313.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 751.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1126.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1878.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10031": {
+      "number": "10031",
+      "name": "Rajdhani Express 031",
+      "source": "Delhi",
+      "destination": "Mumbai",
+      "distance_km": 1384,
+      "departure": "21:00",
+      "classes": {
+        "SL": {
+          "fare": 692.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1660.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 2491.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 4152.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10032": {
+      "number": "10032",
+      "name": "Shatabdi Express 032",
+      "source": "Delhi",
+      "destination": "Chennai",
+      "distance_km": 2194,
+      "departure": "06:00",
+      "classes": {
+        "SL": {
+          "fare": 1097.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 2632.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 3949.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 6582.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10033": {
+      "number": "10033",
+      "name": "Duronto Express 033",
+      "source": "Delhi",
+      "destination": "Kolkata",
+      "distance_km": 1472,
+      "departure": "07:00",
+      "classes": {
+        "SL": {
+          "fare": 736.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1766.4,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 2649.6,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 4416.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10034": {
+      "number": "10034",
+      "name": "Garib Rath 034",
+      "source": "Mumbai",
+      "destination": "Bengaluru",
+      "distance_km": 981,
+      "departure": "08:00",
+      "classes": {
+        "SL": {
+          "fare": 490.5,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1177.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1765.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 2943.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10035": {
+      "number": "10035",
+      "name": "Jan Shatabdi 035",
+      "source": "Chennai",
+      "destination": "Bengaluru",
+      "distance_km": 346,
+      "departure": "09:00",
+      "classes": {
+        "SL": {
+          "fare": 173.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 415.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 622.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1038.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10036": {
+      "number": "10036",
+      "name": "Humsafar Express 036",
+      "source": "Kolkata",
+      "destination": "Patna",
+      "distance_km": 532,
+      "departure": "10:00",
+      "classes": {
+        "SL": {
+          "fare": 266.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 638.4,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 957.6,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1596.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10037": {
+      "number": "10037",
+      "name": "Tejas Express 037",
+      "source": "Delhi",
+      "destination": "Jaipur",
+      "distance_km": 268,
+      "departure": "11:00",
+      "classes": {
+        "SL": {
+          "fare": 134.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 321.6,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 482.4,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 804.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10038": {
+      "number": "10038",
+      "name": "Vande Bharat 038",
+      "source": "Mumbai",
+      "destination": "Pune",
+      "distance_km": 149,
+      "departure": "12:00",
+      "classes": {
+        "SL": {
+          "fare": 74.5,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 178.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 268.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 447.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10039": {
+      "number": "10039",
+      "name": "Sampark Kranti 039",
+      "source": "Bengaluru",
+      "destination": "Hyderabad",
+      "distance_km": 574,
+      "departure": "13:00",
+      "classes": {
+        "SL": {
+          "fare": 287.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 688.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1033.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1722.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10040": {
+      "number": "10040",
+      "name": "Intercity Express 040",
+      "source": "Chennai",
+      "destination": "Hyderabad",
+      "distance_km": 626,
+      "departure": "14:00",
+      "classes": {
+        "SL": {
+          "fare": 313.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 751.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1126.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1878.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10041": {
+      "number": "10041",
+      "name": "Rajdhani Express 041",
+      "source": "Delhi",
+      "destination": "Mumbai",
+      "distance_km": 1384,
+      "departure": "15:00",
+      "classes": {
+        "SL": {
+          "fare": 692.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1660.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 2491.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 4152.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10042": {
+      "number": "10042",
+      "name": "Shatabdi Express 042",
+      "source": "Delhi",
+      "destination": "Chennai",
+      "distance_km": 2194,
+      "departure": "16:00",
+      "classes": {
+        "SL": {
+          "fare": 1097.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 2632.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 3949.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 6582.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10043": {
+      "number": "10043",
+      "name": "Duronto Express 043",
+      "source": "Delhi",
+      "destination": "Kolkata",
+      "distance_km": 1472,
+      "departure": "17:00",
+      "classes": {
+        "SL": {
+          "fare": 736.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1766.4,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 2649.6,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 4416.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10044": {
+      "number": "10044",
+      "name": "Garib Rath 044",
+      "source": "Mumbai",
+      "destination": "Bengaluru",
+      "distance_km": 981,
+      "departure": "18:00",
+      "classes": {
+        "SL": {
+          "fare": 490.5,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1177.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1765.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 2943.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10045": {
+      "number": "10045",
+      "name": "Jan Shatabdi 045",
+      "source": "Chennai",
+      "destination": "Bengaluru",
+      "distance_km": 346,
+      "departure": "19:00",
+      "classes": {
+        "SL": {
+          "fare": 173.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 415.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 622.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1038.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10046": {
+      "number": "10046",
+      "name": "Humsafar Express 046",
+      "source": "Kolkata",
+      "destination": "Patna",
+      "distance_km": 532,
+      "departure": "20:00",
+      "classes": {
+        "SL": {
+          "fare": 266.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 638.4,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 957.6,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1596.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10047": {
+      "number": "10047",
+      "name": "Tejas Express 047",
+      "source": "Delhi",
+      "destination": "Jaipur",
+      "distance_km": 268,
+      "departure": "21:00",
+      "classes": {
+        "SL": {
+          "fare": 134.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 321.6,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 482.4,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 804.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10048": {
+      "number": "10048",
+      "name": "Vande Bharat 048",
+      "source": "Mumbai",
+      "destination": "Pune",
+      "distance_km": 149,
+      "departure": "06:00",
+      "classes": {
+        "SL": {
+          "fare": 74.5,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 178.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 268.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 447.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10049": {
+      "number": "10049",
+      "name": "Sampark Kranti 049",
+      "source": "Bengaluru",
+      "destination": "Hyderabad",
+      "distance_km": 574,
+      "departure": "07:00",
+      "classes": {
+        "SL": {
+          "fare": 287.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 688.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1033.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1722.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10050": {
+      "number": "10050",
+      "name": "Intercity Express 050",
+      "source": "Chennai",
+      "destination": "Hyderabad",
+      "distance_km": 626,
+      "departure": "08:00",
+      "classes": {
+        "SL": {
+          "fare": 313.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 751.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1126.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1878.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10051": {
+      "number": "10051",
+      "name": "Rajdhani Express 051",
+      "source": "Delhi",
+      "destination": "Mumbai",
+      "distance_km": 1384,
+      "departure": "09:00",
+      "classes": {
+        "SL": {
+          "fare": 692.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1660.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 2491.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 4152.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10052": {
+      "number": "10052",
+      "name": "Shatabdi Express 052",
+      "source": "Delhi",
+      "destination": "Chennai",
+      "distance_km": 2194,
+      "departure": "10:00",
+      "classes": {
+        "SL": {
+          "fare": 1097.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 2632.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 3949.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 6582.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10053": {
+      "number": "10053",
+      "name": "Duronto Express 053",
+      "source": "Delhi",
+      "destination": "Kolkata",
+      "distance_km": 1472,
+      "departure": "11:00",
+      "classes": {
+        "SL": {
+          "fare": 736.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1766.4,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 2649.6,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 4416.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10054": {
+      "number": "10054",
+      "name": "Garib Rath 054",
+      "source": "Mumbai",
+      "destination": "Bengaluru",
+      "distance_km": 981,
+      "departure": "12:00",
+      "classes": {
+        "SL": {
+          "fare": 490.5,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1177.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1765.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 2943.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10055": {
+      "number": "10055",
+      "name": "Jan Shatabdi 055",
+      "source": "Chennai",
+      "destination": "Bengaluru",
+      "distance_km": 346,
+      "departure": "13:00",
+      "classes": {
+        "SL": {
+          "fare": 173.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 415.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 622.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1038.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10056": {
+      "number": "10056",
+      "name": "Humsafar Express 056",
+      "source": "Kolkata",
+      "destination": "Patna",
+      "distance_km": 532,
+      "departure": "14:00",
+      "classes": {
+        "SL": {
+          "fare": 266.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 638.4,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 957.6,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1596.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10057": {
+      "number": "10057",
+      "name": "Tejas Express 057",
+      "source": "Delhi",
+      "destination": "Jaipur",
+      "distance_km": 268,
+      "departure": "15:00",
+      "classes": {
+        "SL": {
+          "fare": 134.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 321.6,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 482.4,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 804.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10058": {
+      "number": "10058",
+      "name": "Vande Bharat 058",
+      "source": "Mumbai",
+      "destination": "Pune",
+      "distance_km": 149,
+      "departure": "16:00",
+      "classes": {
+        "SL": {
+          "fare": 74.5,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 178.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 268.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 447.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10059": {
+      "number": "10059",
+      "name": "Sampark Kranti 059",
+      "source": "Bengaluru",
+      "destination": "Hyderabad",
+      "distance_km": 574,
+      "departure": "17:00",
+      "classes": {
+        "SL": {
+          "fare": 287.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 688.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1033.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1722.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10060": {
+      "number": "10060",
+      "name": "Intercity Express 060",
+      "source": "Chennai",
+      "destination": "Hyderabad",
+      "distance_km": 626,
+      "departure": "18:00",
+      "classes": {
+        "SL": {
+          "fare": 313.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 751.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1126.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1878.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10061": {
+      "number": "10061",
+      "name": "Rajdhani Express 061",
+      "source": "Delhi",
+      "destination": "Mumbai",
+      "distance_km": 1384,
+      "departure": "19:00",
+      "classes": {
+        "SL": {
+          "fare": 692.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1660.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 2491.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 4152.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10062": {
+      "number": "10062",
+      "name": "Shatabdi Express 062",
+      "source": "Delhi",
+      "destination": "Chennai",
+      "distance_km": 2194,
+      "departure": "20:00",
+      "classes": {
+        "SL": {
+          "fare": 1097.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 2632.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 3949.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 6582.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10063": {
+      "number": "10063",
+      "name": "Duronto Express 063",
+      "source": "Delhi",
+      "destination": "Kolkata",
+      "distance_km": 1472,
+      "departure": "21:00",
+      "classes": {
+        "SL": {
+          "fare": 736.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1766.4,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 2649.6,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 4416.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10064": {
+      "number": "10064",
+      "name": "Garib Rath 064",
+      "source": "Mumbai",
+      "destination": "Bengaluru",
+      "distance_km": 981,
+      "departure": "06:00",
+      "classes": {
+        "SL": {
+          "fare": 490.5,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1177.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1765.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 2943.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10065": {
+      "number": "10065",
+      "name": "Jan Shatabdi 065",
+      "source": "Chennai",
+      "destination": "Bengaluru",
+      "distance_km": 346,
+      "departure": "07:00",
+      "classes": {
+        "SL": {
+          "fare": 173.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 415.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 622.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1038.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10066": {
+      "number": "10066",
+      "name": "Humsafar Express 066",
+      "source": "Kolkata",
+      "destination": "Patna",
+      "distance_km": 532,
+      "departure": "08:00",
+      "classes": {
+        "SL": {
+          "fare": 266.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 638.4,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 957.6,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1596.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10067": {
+      "number": "10067",
+      "name": "Tejas Express 067",
+      "source": "Delhi",
+      "destination": "Jaipur",
+      "distance_km": 268,
+      "departure": "09:00",
+      "classes": {
+        "SL": {
+          "fare": 134.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 321.6,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 482.4,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 804.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10068": {
+      "number": "10068",
+      "name": "Vande Bharat 068",
+      "source": "Mumbai",
+      "destination": "Pune",
+      "distance_km": 149,
+      "departure": "10:00",
+      "classes": {
+        "SL": {
+          "fare": 74.5,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 178.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 268.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 447.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10069": {
+      "number": "10069",
+      "name": "Sampark Kranti 069",
+      "source": "Bengaluru",
+      "destination": "Hyderabad",
+      "distance_km": 574,
+      "departure": "11:00",
+      "classes": {
+        "SL": {
+          "fare": 287.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 688.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1033.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1722.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10070": {
+      "number": "10070",
+      "name": "Intercity Express 070",
+      "source": "Chennai",
+      "destination": "Hyderabad",
+      "distance_km": 626,
+      "departure": "12:00",
+      "classes": {
+        "SL": {
+          "fare": 313.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 751.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1126.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1878.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10071": {
+      "number": "10071",
+      "name": "Rajdhani Express 071",
+      "source": "Delhi",
+      "destination": "Mumbai",
+      "distance_km": 1384,
+      "departure": "13:00",
+      "classes": {
+        "SL": {
+          "fare": 692.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1660.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 2491.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 4152.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10072": {
+      "number": "10072",
+      "name": "Shatabdi Express 072",
+      "source": "Delhi",
+      "destination": "Chennai",
+      "distance_km": 2194,
+      "departure": "14:00",
+      "classes": {
+        "SL": {
+          "fare": 1097.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 2632.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 3949.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 6582.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10073": {
+      "number": "10073",
+      "name": "Duronto Express 073",
+      "source": "Delhi",
+      "destination": "Kolkata",
+      "distance_km": 1472,
+      "departure": "15:00",
+      "classes": {
+        "SL": {
+          "fare": 736.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1766.4,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 2649.6,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 4416.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10074": {
+      "number": "10074",
+      "name": "Garib Rath 074",
+      "source": "Mumbai",
+      "destination": "Bengaluru",
+      "distance_km": 981,
+      "departure": "16:00",
+      "classes": {
+        "SL": {
+          "fare": 490.5,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1177.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1765.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 2943.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10075": {
+      "number": "10075",
+      "name": "Jan Shatabdi 075",
+      "source": "Chennai",
+      "destination": "Bengaluru",
+      "distance_km": 346,
+      "departure": "17:00",
+      "classes": {
+        "SL": {
+          "fare": 173.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 415.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 622.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1038.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10076": {
+      "number": "10076",
+      "name": "Humsafar Express 076",
+      "source": "Kolkata",
+      "destination": "Patna",
+      "distance_km": 532,
+      "departure": "18:00",
+      "classes": {
+        "SL": {
+          "fare": 266.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 638.4,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 957.6,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1596.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10077": {
+      "number": "10077",
+      "name": "Tejas Express 077",
+      "source": "Delhi",
+      "destination": "Jaipur",
+      "distance_km": 268,
+      "departure": "19:00",
+      "classes": {
+        "SL": {
+          "fare": 134.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 321.6,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 482.4,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 804.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10078": {
+      "number": "10078",
+      "name": "Vande Bharat 078",
+      "source": "Mumbai",
+      "destination": "Pune",
+      "distance_km": 149,
+      "departure": "20:00",
+      "classes": {
+        "SL": {
+          "fare": 74.5,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 178.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 268.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 447.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10079": {
+      "number": "10079",
+      "name": "Sampark Kranti 079",
+      "source": "Bengaluru",
+      "destination": "Hyderabad",
+      "distance_km": 574,
+      "departure": "21:00",
+      "classes": {
+        "SL": {
+          "fare": 287.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 688.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1033.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1722.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10080": {
+      "number": "10080",
+      "name": "Intercity Express 080",
+      "source": "Chennai",
+      "destination": "Hyderabad",
+      "distance_km": 626,
+      "departure": "06:00",
+      "classes": {
+        "SL": {
+          "fare": 313.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 751.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1126.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1878.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10081": {
+      "number": "10081",
+      "name": "Rajdhani Express 081",
+      "source": "Delhi",
+      "destination": "Mumbai",
+      "distance_km": 1384,
+      "departure": "07:00",
+      "classes": {
+        "SL": {
+          "fare": 692.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1660.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 2491.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 4152.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10082": {
+      "number": "10082",
+      "name": "Shatabdi Express 082",
+      "source": "Delhi",
+      "destination": "Chennai",
+      "distance_km": 2194,
+      "departure": "08:00",
+      "classes": {
+        "SL": {
+          "fare": 1097.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 2632.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 3949.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 6582.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10083": {
+      "number": "10083",
+      "name": "Duronto Express 083",
+      "source": "Delhi",
+      "destination": "Kolkata",
+      "distance_km": 1472,
+      "departure": "09:00",
+      "classes": {
+        "SL": {
+          "fare": 736.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1766.4,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 2649.6,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 4416.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10084": {
+      "number": "10084",
+      "name": "Garib Rath 084",
+      "source": "Mumbai",
+      "destination": "Bengaluru",
+      "distance_km": 981,
+      "departure": "10:00",
+      "classes": {
+        "SL": {
+          "fare": 490.5,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1177.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1765.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 2943.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10085": {
+      "number": "10085",
+      "name": "Jan Shatabdi 085",
+      "source": "Chennai",
+      "destination": "Bengaluru",
+      "distance_km": 346,
+      "departure": "11:00",
+      "classes": {
+        "SL": {
+          "fare": 173.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 415.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 622.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1038.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10086": {
+      "number": "10086",
+      "name": "Humsafar Express 086",
+      "source": "Kolkata",
+      "destination": "Patna",
+      "distance_km": 532,
+      "departure": "12:00",
+      "classes": {
+        "SL": {
+          "fare": 266.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 638.4,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 957.6,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1596.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10087": {
+      "number": "10087",
+      "name": "Tejas Express 087",
+      "source": "Delhi",
+      "destination": "Jaipur",
+      "distance_km": 268,
+      "departure": "13:00",
+      "classes": {
+        "SL": {
+          "fare": 134.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 321.6,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 482.4,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 804.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10088": {
+      "number": "10088",
+      "name": "Vande Bharat 088",
+      "source": "Mumbai",
+      "destination": "Pune",
+      "distance_km": 149,
+      "departure": "14:00",
+      "classes": {
+        "SL": {
+          "fare": 74.5,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 178.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 268.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 447.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10089": {
+      "number": "10089",
+      "name": "Sampark Kranti 089",
+      "source": "Bengaluru",
+      "destination": "Hyderabad",
+      "distance_km": 574,
+      "departure": "15:00",
+      "classes": {
+        "SL": {
+          "fare": 287.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 688.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1033.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1722.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10090": {
+      "number": "10090",
+      "name": "Intercity Express 090",
+      "source": "Chennai",
+      "destination": "Hyderabad",
+      "distance_km": 626,
+      "departure": "16:00",
+      "classes": {
+        "SL": {
+          "fare": 313.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 751.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1126.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1878.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10091": {
+      "number": "10091",
+      "name": "Rajdhani Express 091",
+      "source": "Delhi",
+      "destination": "Mumbai",
+      "distance_km": 1384,
+      "departure": "17:00",
+      "classes": {
+        "SL": {
+          "fare": 692.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1660.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 2491.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 4152.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10092": {
+      "number": "10092",
+      "name": "Shatabdi Express 092",
+      "source": "Delhi",
+      "destination": "Chennai",
+      "distance_km": 2194,
+      "departure": "18:00",
+      "classes": {
+        "SL": {
+          "fare": 1097.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 2632.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 3949.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 6582.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10093": {
+      "number": "10093",
+      "name": "Duronto Express 093",
+      "source": "Delhi",
+      "destination": "Kolkata",
+      "distance_km": 1472,
+      "departure": "19:00",
+      "classes": {
+        "SL": {
+          "fare": 736.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1766.4,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 2649.6,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 4416.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10094": {
+      "number": "10094",
+      "name": "Garib Rath 094",
+      "source": "Mumbai",
+      "destination": "Bengaluru",
+      "distance_km": 981,
+      "departure": "20:00",
+      "classes": {
+        "SL": {
+          "fare": 490.5,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 1177.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1765.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 2943.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10095": {
+      "number": "10095",
+      "name": "Jan Shatabdi 095",
+      "source": "Chennai",
+      "destination": "Bengaluru",
+      "distance_km": 346,
+      "departure": "21:00",
+      "classes": {
+        "SL": {
+          "fare": 173.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 415.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 622.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1038.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10096": {
+      "number": "10096",
+      "name": "Humsafar Express 096",
+      "source": "Kolkata",
+      "destination": "Patna",
+      "distance_km": 532,
+      "departure": "06:00",
+      "classes": {
+        "SL": {
+          "fare": 266.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 638.4,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 957.6,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1596.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10097": {
+      "number": "10097",
+      "name": "Tejas Express 097",
+      "source": "Delhi",
+      "destination": "Jaipur",
+      "distance_km": 268,
+      "departure": "07:00",
+      "classes": {
+        "SL": {
+          "fare": 134.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 321.6,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 482.4,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 804.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10098": {
+      "number": "10098",
+      "name": "Vande Bharat 098",
+      "source": "Mumbai",
+      "destination": "Pune",
+      "distance_km": 149,
+      "departure": "08:00",
+      "classes": {
+        "SL": {
+          "fare": 74.5,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 178.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 268.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 447.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10099": {
+      "number": "10099",
+      "name": "Sampark Kranti 099",
+      "source": "Bengaluru",
+      "destination": "Hyderabad",
+      "distance_km": 574,
+      "departure": "09:00",
+      "classes": {
+        "SL": {
+          "fare": 287.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 688.8,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1033.2,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1722.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    },
+    "10100": {
+      "number": "10100",
+      "name": "Intercity Express 100",
+      "source": "Chennai",
+      "destination": "Hyderabad",
+      "distance_km": 626,
+      "departure": "10:00",
+      "classes": {
+        "SL": {
+          "fare": 313.0,
+          "total_seats": 72,
+          "available_seats": 72
+        },
+        "3A": {
+          "fare": 751.2,
+          "total_seats": 64,
+          "available_seats": 64
+        },
+        "2A": {
+          "fare": 1126.8,
+          "total_seats": 46,
+          "available_seats": 46
+        },
+        "1A": {
+          "fare": 1878.0,
+          "total_seats": 18,
+          "available_seats": 18
+        }
+      }
+    }
+  },
+  "bookings": {},
+  "next_pnr": 1000
+}
