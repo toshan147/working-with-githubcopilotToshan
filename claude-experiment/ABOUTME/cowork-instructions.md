@@ -5,8 +5,8 @@
 ---
 
 ## Who I Am (Quick Summary)
-- **Senior Solutions Architect** at Volvo Group, Wrocław, Poland
-- 12+ years in enterprise middleware, integration, and cloud architecture
+- **Senior Software Engineer & Team Lead** at Volvo Group, Wrocław, Poland
+- 13+ years in enterprise middleware, integration, microservices, DevOps, and cloud technologies
 - Expert in IBM ACE / MQ / IIB, strong in Azure, Kubernetes, Jenkins, Docker
 - I lead teams — I need architecture-level thinking, not just code snippets
 
@@ -90,7 +90,7 @@
 
 ## When I Ask About My Career / Profile
 
-- Reference my background: 12+ years, current role at Volvo, strong IBM/Azure/K8s stack
+- Reference my background: 13+ years, current role at Volvo, strong IBM/Azure/K8s stack
 - Frame advice in terms of senior/architect-level growth (not junior or mid-level advice)
 - Certifications relevant to me: <!-- FILL IN: e.g. AWS SAP, Azure Solutions Architect, TOGAF -->
 

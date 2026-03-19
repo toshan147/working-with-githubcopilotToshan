@@ -3,65 +3,66 @@
 ## Personal Info
 - **Name:** Toshan Tiwari
 - **Location:** Wrocław, Dolnośląskie, Poland
-- **Phone:** +48 729 550 652
+- **Phone:** +48 739 460 148
 - **Email:** tiwaritoshan@gmail.com
 - **LinkedIn:** [linkedin.com/in/toshan-tiwari-817879b4](https://www.linkedin.com/in/toshan-tiwari-817879b4)
 
 ---
 
 ## Current Role
-**Senior Solutions Architect at Volvo Group**
-_June 2024 – Present · Poland_
+**Senior Software Engineer & Team Lead at Volvo Group**
+_June 2024 – Present · Wroclaw, Poland_
 
 ---
 
 ## Professional Summary
-Toshan is a seasoned Middleware/Integration/SOA/EAI specialist with **13+ years of experience** in designing and delivering enterprise integration solutions. He is highly proficient in IBM ACE/IIB, WebSphere Message Broker, and WebSphere MQ, and has deep expertise across the full software development lifecycle — from analysis through implementation and administration.
+Results-oriented Senior Software Engineer and Team Lead with **13+ years of progressive experience** in middleware integration, microservices development, DevOps practices, and cloud technologies. Proven track record of architecting and delivering enterprise-grade integration solutions across investment banking, retail banking, and automotive domains.
 
-He drives delivery through CI/CD automation (GitHub, Jenkins, Maven, Kubernetes, Docker) and operates within Agile frameworks (Scrum, Kanban). He has **2+ years of hands-on cloud experience** across Azure and AWS, and is skilled in REST, APIs, JSON, SOAP, and multi-system integration.
+Expertise in IBM ACE/IIB, WebSphere MQ, CI/CD automation (Jenkins, GitHub, Maven, Docker, Kubernetes), and cloud platforms (Azure, AWS). Adept at leading cross-functional teams of up to 10 engineers, mentoring developers, and driving Agile delivery. Successfully delivered **300+ microservices** and managed end-to-end SDLC for mission-critical banking and enterprise systems.
 
 ---
 
 ## Tech Stack & Proficiency
 
 ### Expert Level
-- IBM ACE / IIB / WebSphere Message Broker
-- WebSphere MQ (IBM MQ)
+- IBM ACE / IIB v10 / IBM Integration Bus v9 / WebSphere Message Broker v8/v7
+- WebSphere MQ v7.5/v8 (IBM MQ)
 - ESQL, Java
-- Enterprise Integration Patterns (EIP)
-- REST / SOAP / JMS / JSON / XML
+- Enterprise Integration Patterns (Publish/Subscribe, Request/Reply, Point-to-Point, Sync/Async)
+- REST / SOAP / JMS / JSON / XML / Web Services
 
 ### Proficient
-- Azure (<!-- FILL IN: e.g. ADF, Service Bus, AKS, Logic Apps, API Management -->)
-- AWS (<!-- FILL IN: e.g. SQS, Lambda, EKS -->)
+- Azure (Data Factory, Functions, DevOps)
+- AWS (EC2, S3, Lambda)
 - Kubernetes, Docker
-- Jenkins, Maven, GitHub Actions
+- Jenkins, Maven, GitHub Actions, Bitbucket Pipelines
 - Microservices Architecture
 - SOA / EAI Design
+- Databases: Oracle, Sybase, DB2, SQL Server
 
 ### Familiar / Exploring
-- <!-- FILL IN: e.g. AsyncAPI, Event Mesh, Kafka, Terraform, Python -->
+- Prometheus, Grafana, Splunk (Monitoring & Logging)
+- Python, Bash Scripting
+- SoapUI, DBeaver, Rapid SQL, PL/SQL
 
 ---
 
 ## Tools I Use Daily
-- **IDE:**  VS Code
-- **Version Control:** GitHub
+- **IDE:** VS Code
+- **Version Control:** GitHub, Bitbucket
 - **CI/CD:** Jenkins + Maven
-- **Containers:** Docker + Kubernetes (<!-- FILL IN: AKS / EKS / on-prem? -->)
-- **Messaging:** IBM MQ, <!-- FILL IN: Azure Service Bus? Kafka? -->
-- **Monitoring:** <!-- FILL IN: e.g. Dynatrace, Grafana, Splunk, ELK -->
-- **Collaboration:** Azure devops
+- **Containers:** Docker + Kubernetes
+- **Messaging:** IBM MQ, IBM ACE
+- **Monitoring:** Grafana, Prometheus, Pythia
+- **Collaboration:** Azure DevOps
 
 ---
 
 ## Current Focus at Volvo
-<!-- FILL IN: What are you working on right now?
-Examples:
-- "Migrating legacy WMB flows to IBM ACE microservices"
-- "Designing event-driven architecture for Volvo's manufacturing integration layer"
-- "Building Azure-based API gateway for connected vehicle services"
--->
+- Leading a team of engineers delivering enterprise integration solutions for Volvo's global automotive platform
+- Architecting scalable middleware and microservices solutions using IBM ACE, MQ, and cloud-native technologies
+- Establishing CI/CD pipelines and DevOps best practices using Jenkins, GitHub, Docker, and Kubernetes
+- Driving Volvo's digital transformation through integration standards and platform connectivity
 
 **Domain:** Digital technology and operations. Supporting post sale dealers management services.
 
@@ -76,10 +77,10 @@ Mainly focused on IBM ACE 12 workflows and automation of CI/CD
 ---
 
 ## Coding Style & Preferences
-- **Primary language:** Java <!-- UPDATE if Python or other is also primary -->
-- **Code style:** <!-- FILL IN: e.g. Google Java Style Guide, clean code principles -->
-- **Approach:** <!-- FILL IN: e.g. TDD, documentation-first, contract-first API design -->
-- **Architecture preference:** <!-- FILL IN: e.g. event-driven, synchronous REST, hybrid -->
+- **Primary languages:** ESQL, Java, Python, Bash Scripting
+- **Code style:** Clean code principles, business coding standards
+- **Approach:** Agile (Scrum, Kanban), TDD, CI/CD-first
+- **Architecture preference:** Microservices, SOA/EAI, enterprise integration patterns (Pub/Sub, Request/Reply, Point-to-Point)
 
 ---
 
@@ -98,11 +99,11 @@ Examples:
 
 | Period | Role | Company | Location |
 |--------|------|---------|----------|
-| Jun 2024 – Present | Senior Solutions Architect | Volvo Group | Poland |
-| Jan 2022 – Jun 2024 | AVP Technology · Microservices · Azure Data Engineer | Credit Suisse | Poland |
-| Jul 2017 – Dec 2021 | Micro Services Development Lead (Credit Suisse Poland) | Wipro Limited | Poland |
-| Feb 2017 – Jul 2017 | IIB Integration Solutions Developer (Barclays Bank) | Cognizant | Pune, India |
-| Mar 2013 – Feb 2017 | IBM WMB/WMQ Lead Developer (Central Bank of India) | Tata Consultancy Services | Mumbai, India |
+| Jun 2024 – Present | Senior Software Engineer & Team Lead | Volvo Group | Wroclaw, Poland |
+| Jan 2022 – Jun 2024 | AVP Technology · Microservices & Azure Data Engineer | Credit Suisse (UBS Group) | Wroclaw, Poland |
+| Jul 2017 – Dec 2021 | Microservices Development Lead (Client: Credit Suisse) | Wipro Limited | Wroclaw, Poland |
+| Feb 2017 – Jul 2017 | IIB Integration Solutions Developer (Client: Barclays Bank) | Cognizant Technology Solutions | Pune, India |
+| Mar 2013 – Feb 2017 | IBM WMB/WMQ Lead Developer (Client: Central Bank of India) | Tata Consultancy Services | Mumbai, India |
 
 ---
 
@@ -113,11 +114,13 @@ Shri Ram Institute of Technology Jabalpur Madhya Pradesh India· 2008 – 2012
 ---
 
 ## Context for Claude
-- Toshan is a **Senior Solutions Architect** at Volvo Group, based in **Wrocław, Poland**.
+- Toshan is a **Senior Software Engineer & Team Lead** at Volvo Group, based in **Wrocław, Poland**.
 - He has **13+ years** in enterprise middleware and integration — treat him as an **expert** in IBM ACE/MQ/IIB. Do not over-explain basics in these areas.
 - He works with enterprise-scale systems where reliability, scalability, and integration patterns matter — avoid toy examples.
-- His cloud stack is **Azure-first**, with AWS familiarity.
-- He is comfortable with DevOps tooling: **Jenkins, GitHub, Maven, Kubernetes, Docker**.
+- His cloud stack is **Azure-first** (Data Factory, Functions, DevOps), with AWS familiarity (EC2, S3, Lambda).
+- He is comfortable with DevOps tooling: **Jenkins, GitHub, Bitbucket, Maven, Kubernetes, Docker**.
+- Proficient in **ESQL, Java, Python, Bash Scripting, SQL**.
+- Database expertise: **Oracle, Sybase, DB2, SQL Server**.
 - Assume a **Linux/cloud environment** unless told otherwise.
 - When giving code, prefer **working examples** over pseudocode.
 - He leads teams, so architecture-level thinking, trade-offs, and documentation best practices are always relevant.
